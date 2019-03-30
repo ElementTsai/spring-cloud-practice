@@ -1,0 +1,14 @@
+.idea
+*.iml
+.DS_Store
+target
+.project
+.settings/
+*.classpath
+*.project
+*.settings/
+*.releaseBackup
+release.properties
+*.pmd
+*.springbeans
+*.pmdruleset.xml
